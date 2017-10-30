@@ -1,0 +1,24 @@
+#fresh-burger {
+	width:100%;
+	padding:12px;
+	margin:10px 0px;
+	font-size:135%;
+}
+
+#add-burger-section {
+	margin:0px auto;
+}
+
+#burger-submit {
+	width:100%;
+	text-align:center;
+}
+
+#add-burger {
+	width:15%;
+}
+
+#input-bar {
+	width:20%;
+	text-align:center;
+}
